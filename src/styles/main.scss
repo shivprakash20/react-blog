@@ -1,0 +1,10 @@
+//Style Static
+@import './static/functions';
+
+//Container
+@import '../container/Header/Header.scss';
+@import '../container/Main/Main.scss';
+@import '../container/Footer/Footer.scss';
+
+//Component
+@import './../components/Counter/Counter.scss';
