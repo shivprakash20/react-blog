@@ -2,3 +2,22 @@
   padding: 1rem;
   box-sizing: border-box;
 }
+
+.counter-use-state {
+  display: flex;              
+  flex-wrap: wrap;            
+  gap: 10px;                  
+
+  .state-cards {
+    border: solid 1px #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 20px 0px;
+  }
+}
